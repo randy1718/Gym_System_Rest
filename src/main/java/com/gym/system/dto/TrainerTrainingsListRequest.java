@@ -39,4 +39,8 @@ public class TrainerTrainingsListRequest {
     public String getTraineeName(){
         return traineeName;
     }
+
+    public void setTraineeName(String traineeName){
+        this.traineeName = traineeName;
+    }
 }

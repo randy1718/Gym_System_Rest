@@ -50,7 +50,7 @@ public class GetTraineeTrainingsListControllerTest {
         request.setUsername("Rose.Smith");
         request.setFrom("2023-01-01");
         request.setTo("2023-12-31");
-        request.setTrainerName("Cardio training - Rose");
+        request.setTrainerName("John Carter");
         request.setTrainingType("Cardio");
 
         TraineeTrainingsListResponse response = new TraineeTrainingsListResponse();
