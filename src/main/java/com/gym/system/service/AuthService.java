@@ -10,9 +10,6 @@ import com.gym.system.model.Trainer;
 import com.gym.system.repository.TraineeDAO;
 import com.gym.system.repository.TrainerDAO;
 
-
-
-
 @Service
 public class AuthService {
 
